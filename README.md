@@ -1,1 +1,1 @@
-![UML Diagram](ChessLLS.png)
+![UML Diagram](ChessLLD.png)
