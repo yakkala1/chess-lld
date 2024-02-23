@@ -1,1 +1,1 @@
-![UML Diagram](ChessLLS.svg)
+![UML Diagram](ChessLLS.png)
